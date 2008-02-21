@@ -1,0 +1,11 @@
+MephistoTextlinkads
+===================
+
+Simple support for textlinkads. 
+
+Example usage:
+
+
+   <ul>
+   {{ 'GC014CRPERVL1BFLJFJG' | textlinkads }}
+   </ul>
